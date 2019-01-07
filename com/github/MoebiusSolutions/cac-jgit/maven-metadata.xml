@@ -3,10 +3,10 @@
   <groupId>com.github.MoebiusSolutions</groupId>
   <artifactId>cac-jgit</artifactId>
   <versioning>
-    <release>1.15</release>
+    <release>1.16</release>
     <versions>
-      <version>1.15</version>
+      <version>1.16</version>
     </versions>
-    <lastUpdated>20190107053155</lastUpdated>
+    <lastUpdated>20190107054029</lastUpdated>
   </versioning>
 </metadata>
